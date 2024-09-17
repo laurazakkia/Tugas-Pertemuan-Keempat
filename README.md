@@ -1,8 +1,10 @@
 # **1. CRUD** 
-CRUD adalah istilah yang merujuk pada empat kegiatan dasar dalam mengelola informasi : **Create**, **Read**, **Update**, dan **Delete**. Kegiatan Create berarti menambahkan informasi baru, Read berarti melihat atau mengambil informasi yang sudah ada, Update berarti mengubah informasi yang sudah ada, dan Delete berarti menghilangkan informasi dari sistem. 
-## Program yang digunakan
-- Bahasa pemrograman : Java
-- Database : PostgreeSQL
+CRUD adalah istilah yang merujuk pada empat kegiatan dasar dalam mengelola informasi :  
+- Create berarti menambahkan informasi baru
+- Read berarti melihat atau mengambil informasi yang sudah ada
+- Update berarti mengubah informasi yang sudah ada
+- Delete berarti menghilangkan informasi dari sistem. 
+
   
 # **2. EXCEPTION**
 ## **Pengertian Exception**
