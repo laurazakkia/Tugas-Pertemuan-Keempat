@@ -1,5 +1,5 @@
 # **1. CRUD** 
-CRUD adalah istilah yang merujuk pada empat kegiatan dasar dalam mengelola informasi : **Create**, **Read**, **Update**, dan **Delete**. Kegiatan Create berarti menambahkan informasi baru, Read berarti melihat atau mengambil informasi yang sudah ada, Update berarti mengubah informasi yang sudah ada, dan Delete berarti menghilangkan informasi dari sistem. Konsep ini sering digunakan dalam berbagai aplikasi dan sistem untuk memastikan bahwa pengelolaan informasi dilakukan dengan baik dan teratur.
+CRUD adalah istilah yang merujuk pada empat kegiatan dasar dalam mengelola informasi : **Create**, **Read**, **Update**, dan **Delete**. Kegiatan Create berarti menambahkan informasi baru, Read berarti melihat atau mengambil informasi yang sudah ada, Update berarti mengubah informasi yang sudah ada, dan Delete berarti menghilangkan informasi dari sistem. 
 ## Program yang digunakan
 - Bahasa pemrograman : Java
 - Database : PostgreeSQL
@@ -8,11 +8,6 @@ CRUD adalah istilah yang merujuk pada empat kegiatan dasar dalam mengelola infor
 ## **Pengertian Exception**
 Exception adalah istilah dalam pemrograman yang menggambarkan situasi tak terduga yang muncul saat program dijalankan. Ketika exception terjadi, program tidak dapat melanjutkan prosesnya secara normal dan perlu ada penanganan khusus untuk mengatasi masalah tersebut.
 
-## **Jenis Exception**
-- ArithmeticException : Terjadi saat ada kesalahan aritmatika, seperti pembagian dengan nol.
-- NullPointerException : Terjadi saat mencoba mengakses objek yang tidak diinisialisasi (null).
-- ArrayIndexOutOfBoundsException : Terjadi saat mencoba meng akses indeks di luar batas array.
-  
 ## **A. Pengertian Try Catch**
 Try catch adalah mekanisme yang digunakan untuk menangani exception, yaitu situasi tidak terduga yang dapat muncul selama eksekusi program. Dengan menggunakan blok try dan catch, kita dapat mengisolasi bagian kode yang mungkin menyebabkan kesalahan dan menyediakan cara untuk mengatasi kesalahan tersebut agar program tetap dapat berjalan.
 ### **Struktur Dasar Try Catch**
